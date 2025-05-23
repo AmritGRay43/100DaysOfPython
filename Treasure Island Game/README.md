@@ -32,7 +32,7 @@ Your mission: find the hidden treasure by making smart choices.
 4. Navigate to the directory containing the file.
 5. Run the game with:
 
-python tip_calculator.py
+python treasure_island.py
 ---
 
 ## License
