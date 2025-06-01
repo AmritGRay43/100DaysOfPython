@@ -50,12 +50,3 @@ Thank You
 - Shift wraps around the alphabet (e.g., shifting `z` by 1 becomes `a`).
 
 ---
-
-## Possible Improvements
-
-- Add support for uppercase letters.
-- Handle large or negative shift values.
-- Improve error handling for invalid input.
-- Add testing or convert to a GUI/web app.
-
----
