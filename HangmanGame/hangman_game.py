@@ -1,6 +1,7 @@
 import random
 
 # Hangman stages
+
 stages = [
     '''
 +---+
